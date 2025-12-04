@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "name": "Mahad Usman",
+        "title": "A passionate Fullstack developer and AI Engineer",
+        "age": 16,
+        "about": "I am Mahad Usman, a dedicated Fullstack developer and AI Engineer with a strong passion for creating innovative solutions. With expertise in both frontend and backend technologies, I strive to build seamless and efficient applications that meet user needs. My journey in the tech world has equipped me with a diverse skill set, allowing me to tackle complex challenges and deliver high-quality results. I am committed to continuous learning and staying updated with the latest industry trends to ensure my work remains cutting-edge.",
+        "languages": [
+            "English",
+            "Urdu"
+        ],
+        "hobbies": [
+            "Coding",
+            "Traveling",
+            "Writing"
+        ],
+        "status": "Student"
+    },
+    "education": {
+        "school": {
+            "name": "Saqib Public School",
+            "dur": "2020-2025",
+            "role": "Matriculation in Computer Science"
+        },
+        "college": {
+            "name": "Adamjee Government Science College",
+            "dur": "2025-Present",
+            "role": "Intermediate in Computer Science"
+        },
+        "giaic": {
+            "name": "Governor Initiative for Artificial Intelligence and Computing",
+            "dur": "2024-Present",
+            "role": "Agentic AI and other AI stuff"
+        }
+    },
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Typescript",
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "C and C++",
+        "Express.js",
+        "MongoDB",
+        "Python",
+        "Tailwind CSS",
+        "Git",
+        "GitHub",
+        "API Development",
+        "AI Integration",
+        "Sanity",
+        "Wordpress",
+        "Frontend Development",
+        "Backend Development",
+        "Graphic Designer",
+        "Prompt Engineering"
+    ],
+    "contacts": [
+        {
+            "social": "Github",
+            "link": "https://github.com/Mahad-Usman-15",
+            "icon": ""
+        },
+        {
+            "social": "LinkedIn",
+            "link": "http://linkedin.com/in/mahad-usman-45497a353"
+        },
+        {
+            "social": "Email",
+            "link": "mailto:mahadusman2008@gmail.com"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Gracode Studio",
+            "role": "Chief Operating Officer/Development Lead",
+            "dur": "May 2025 - Present",
+            "desc": "Serving as the Chief Operating Officer and Development Lead at Gracode Studio, overseeing operations and leading the development team to deliver high-quality software solutions."
+        },
+        {
+            "company": "Digitorm",
+            "role": "Frontend Developer Intern",
+            "dur": "May 2025 - Aug 2025",
+            "desc": "Worked as a Frontend Developer Intern at Digitorm,where I collaborated with a team of developers to implement responsive designs and enhance user experience."
+        },
+        {
+            "company": "Devsum",
+            "role": "React Developer Intern",
+            "dur": "Aug 2025 - Nov 2025",
+            "desc": "Worked as a React Developer Intern at Devsum, where I contributed to building dynamic web applications using React.js and improved application performance."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Tech Ecommerce Website",
+            "link": "https://techdukaans.netlify.app",
+            "techstack": [
+                "React.js",
+                "Tailwind CSS",
+                "javascript"
+            ],
+            "desc": "Developed a comprehensive ecommerce website specializing in tech products, featuring user authentication, product listings, shopping cart functionality, and secure checkout process."
+        },
+        {
+            "name": "School Chatbot",
+            "link": "https://mahad-usman-15.github.io/school-agent/",
+            "techstack": [
+                "HTML",
+                "CSS",
+                "javascript",
+                "GEMINI API"
+            ],
+            "desc": "Created an AI-powered chatbot for school-related queries, utilizing GEMINI API to provide accurate and helpful responses to students and staff."
+        },
+        {
+            "name": "File Manager Agent",
+            "link": "https://file-manager-agent-production-5f71.up.railway.app/",
+            "techstack": [
+                "OpenAI Agents SDK",
+                "Railway",
+                "GEMINI API"
+            ],
+            "desc": "Developed a File Manager Agent using OpenAI Agents SDK and GEMINI API, deployed on Railway, to assist users in managing and organizing their files efficiently."
+        },{
+            "name": "Youtube Agent",
+            "link": "",
+        "techstack": [
+                "OpenAI Agents SDK",
+                "Railway",
+                "GEMINI API"
+            ],
+            "desc": "Created a Youtube Agent using OpenAI Agents SDK and GEMINI API, deployed on Railway, to help users search and manage Youtube content effectively."
+        },
+        {
+            "name": "Hundreds Days of Code",
+            "link": "",
+            "techstack": [
+                "TypeScript"
+            ],
+            "desc": "An ongoing personal challenge where I code daily for 100 days, focusing on improving my TypeScript skills and building various projects to enhance my coding proficiency."
+        },{
+            "name": "45 Questions",
+            "link": "https://mahad-usman-15.github.io/Portfolio/",
+            "techstack": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+        ,
+        {
+            "name": "Pizza Ecommerce Website",
+            "link": "https://pizza-ecommerce-website.vercel.app/",
+            "techstack": [
+                "React.js","Redux","Javascript","Tailwind CSS"
+            ]
+        },
+        {
+            "name": "Prompt Engineering Documentation",
+            "link": "",
+            "techstack": [
+                "Google Docs"
+            ]
+        }
+    ]
+}
